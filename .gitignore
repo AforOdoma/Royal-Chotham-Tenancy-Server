@@ -1,0 +1,8 @@
+.env
+.env.example
+.env.notes
+
+
+.env
+serviceAccountKey.json
+node_modules
